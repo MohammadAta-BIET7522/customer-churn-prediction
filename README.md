@@ -60,7 +60,7 @@ The app is built using Streamlit for an interactive user interface.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/MohammadAta-BIET7522/customer-churn-prediction.git
 cd your-repo-name
 ```
 
@@ -87,7 +87,7 @@ python -m streamlit run app.py
 
 ## 🌐 Live App
 
-*(Add your Streamlit deployment link here after deployment)*
+https://mohammadata-biet7522-customer-churn-prediction-app-hnbbli.streamlit.app/
 
 ---
 

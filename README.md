@@ -61,7 +61,7 @@ The app is built using Streamlit for an interactive user interface.
 
 ```bash
 git clone https://github.com/MohammadAta-BIET7522/customer-churn-prediction.git
-cd your-repo-name
+cd customer-churn-prediction
 ```
 
 ### 2. Create virtual environment
